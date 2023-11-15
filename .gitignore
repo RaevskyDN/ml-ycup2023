@@ -1,0 +1,7 @@
+notebooks/.ipynb_checkpoints/*
+*.pyc
+*.log
+*~
+__pycache__/*
+.idea
+.vscode/
